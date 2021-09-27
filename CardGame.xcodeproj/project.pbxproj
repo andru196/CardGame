@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CE764AFD27011ECE00C9B6DB /* ex02 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ex02; sourceTree = "<group>"; };
+		CE764AFE27011ECE00C9B6DB /* ex01 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ex01; sourceTree = "<group>"; };
+		CE764AFF27011ECE00C9B6DB /* ex00 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ex00; sourceTree = "<group>"; };
+		CE764B0027012F3100C9B6DB /* ex03 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ex03; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CE764AF627011E9200C9B6DB = {
+			isa = PBXGroup;
+			children = (
+				CE764B0027012F3100C9B6DB /* ex03 */,
+				CE764AFF27011ECE00C9B6DB /* ex00 */,
+				CE764AFE27011ECE00C9B6DB /* ex01 */,
+				CE764AFD27011ECE00C9B6DB /* ex02 */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CE764AF727011E9200C9B6DB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1300;
+			};
+			buildConfigurationList = CE764AFA27011E9200C9B6DB /* Build configuration list for PBXProject "CardGame" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CE764AF627011E9200C9B6DB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CE764AFB27011E9200C9B6DB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CE764AFC27011E9200C9B6DB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE764AFA27011E9200C9B6DB /* Build configuration list for PBXProject "CardGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE764AFB27011E9200C9B6DB /* Debug */,
+				CE764AFC27011E9200C9B6DB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE764AF727011E9200C9B6DB /* Project object */;
+}
